@@ -1,6 +1,11 @@
 {
   "skills": [
     {
+      "name": "sysu-research-router",
+      "type": "skill-md",
+      "description": "Meta-skill for academic research routing — identifier-first lookup, source-priority guidance, and delegation to domain sub-skills."
+    },
+    {
       "name": "sysu-wos-literature-search",
       "type": "skill-md",
       "description": "Search academic literature on Web of Science (WoS) using institutional subscription access, analyze results, trace citation networks, and retrieve full-text paths."
