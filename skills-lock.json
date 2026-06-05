@@ -1,0 +1,6 @@
+{
+  "skills": [
+    { "name": "sysu-literature-search", "type": "skill-md", "description": "Search SYSU Library catalog and databases for research resources." },
+    { "name": "sysu-reference-retrieval", "type": "skill-md", "description": "Retrieve bibliographic records and item details from SYSU Library catalog." }
+  ]
+}
