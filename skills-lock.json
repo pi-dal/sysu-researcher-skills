@@ -14,6 +14,16 @@
       "name": "sysu-library-resource-access",
       "type": "skill-md",
       "description": "Verify SYSU Library subscriptions for academic databases, search the catalog for research materials, and retrieve item locations and availability."
+    },
+    {
+      "name": "sysu-open-literature-search",
+      "type": "skill-md",
+      "description": "Search academic literature, preprints, and citations using open platforms like arXiv, PubMed, Google Scholar, and OpenAlex via OpenCLI."
+    },
+    {
+      "name": "sysu-ai-model-data-search",
+      "type": "skill-md",
+      "description": "Track and retrieve top AI/ML models, datasets, spaces, and papers from Hugging Face via OpenCLI."
     }
   ]
 }

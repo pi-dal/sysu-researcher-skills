@@ -18,6 +18,8 @@ This repository provides OpenCLI skills tailored for academic researchers at SYS
 - **`sysu-wos-literature-search`**: Literature search on Web of Science, citation tracing (citing/cited papers), Result Analysis facet distribution, and institutional full-text retrieval.
 - **`sysu-wos-author-lookup`**: Researcher profile lookups by name/ResearcherID/ORCID, tracking publication lists, h-index, and citation reports.
 - **`sysu-library-resource-access`**: Searching physical/electronic collections in SYSU libraries, locating item holding locations and call numbers, and checking SYSU subscriptions for specific databases (e.g., CNKI, IEEE Xplore).
+- **`sysu-open-literature-search`**: Literature, preprint, and citation search on open academic platforms (arXiv, PubMed, Google Scholar, OpenAlex) using OpenCLI.
+- **`sysu-ai-model-data-search`**: Querying trending ML models, datasets, spaces, and paper detail summaries on Hugging Face using OpenCLI.
 
 ## Usage
 
