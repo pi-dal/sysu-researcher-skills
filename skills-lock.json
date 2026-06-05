@@ -1,6 +1,19 @@
 {
   "skills": [
-    { "name": "sysu-literature-search", "type": "skill-md", "description": "Search SYSU Library catalog and databases for research resources." },
-    { "name": "sysu-reference-retrieval", "type": "skill-md", "description": "Retrieve bibliographic records and item details from SYSU Library catalog." }
+    {
+      "name": "sysu-wos-literature-search",
+      "type": "skill-md",
+      "description": "Search academic literature on Web of Science (WoS) using institutional subscription access, analyze results, trace citation networks, and retrieve full-text paths."
+    },
+    {
+      "name": "sysu-wos-author-lookup",
+      "type": "skill-md",
+      "description": "Query academic profiles, trace researcher h-index, analyze publication metrics, and search for researcher profiles by name or ID on Web of Science."
+    },
+    {
+      "name": "sysu-library-resource-access",
+      "type": "skill-md",
+      "description": "Verify SYSU Library subscriptions for academic databases, search the catalog for research materials, and retrieve item locations and availability."
+    }
   ]
 }
