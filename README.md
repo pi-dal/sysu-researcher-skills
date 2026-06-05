@@ -20,6 +20,12 @@ This repository provides OpenCLI skills for academic research workflows. The ski
 
 ## Skills
 
+### Router (entry point)
+
+| Skill | Description |
+|-------|-------------|
+| `sysu-research-router` | Meta-skill: identifier-first academic research routing (DOI/PMID/arXiv/WOS UT), source-priority guidance, and delegation to domain sub-skills. Start here when you need to choose the right source. |
+
 ### Core (SYSU institutional advantage)
 
 | Skill | Description | Requires |
